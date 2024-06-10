@@ -33,4 +33,44 @@
         android:name="ru.mirea.udalov.mireaproject.WebViewFragment"
         android:label="fragment_web_view"
         tools:layout="@layout/fragment_web_view" />
+    <fragment
+        android:id="@+id/workerFragment"
+        android:name="ru.mirea.udalov.mireaproject.WorkerFragment"
+        android:label="fragment_web_view"
+        tools:layout="@layout/fragment_worker" />
+    <fragment
+        android:id="@+id/CameraFragment"
+        android:name="ru.mirea.udalov.mireaproject.CameraFragment"
+        android:label="fragment_camera"
+        tools:layout="@layout/fragment_camera" />
+    <fragment
+        android:id="@+id/MicrifoneFragment"
+        android:name="ru.mirea.udalov.mireaproject.MicrifoneFragment"
+        android:label="fragment_micrifone"
+        tools:layout="@layout/fragment_micrifone" />
+    <fragment
+        android:id="@+id/SensorFragment"
+        android:name="ru.mirea.udalov.mireaproject.SensorFragment"
+        android:label="fragment_sensor"
+        tools:layout="@layout/fragment_sensor" />
+    <fragment
+        android:id="@+id/fragment_profile"
+        android:name="ru.mirea.udalov.mireaproject.fragment_profile"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/FileFragment"
+        android:name="ru.mirea.udalov.mireaproject.FileFragment"
+        android:label="fragment_file"
+        tools:layout="@layout/fragment_file" />
+    <fragment
+        android:id="@+id/ExampleFragment"
+        android:name="ru.mirea.udalov.mireaproject.ExampleFragment"
+        android:label="fragment_example"
+        tools:layout="@layout/fragment_example" />
+    <fragment
+        android:id="@+id/MapsFragment"
+        android:name="ru.mirea.udalov.mireaproject.MapsFragment"
+        android:label="fragment_maps"
+        tools:layout="@layout/fragment_maps" />
 </navigation>

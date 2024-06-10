@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "MireaProject"
 include(":app")
- 
+include(":fragment_profile")

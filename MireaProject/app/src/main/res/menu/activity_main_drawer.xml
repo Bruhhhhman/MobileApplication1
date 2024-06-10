@@ -24,5 +24,37 @@
             android:id="@+id/webViewFragment"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="Браузер" />
+        <item
+            android:id="@+id/workerFragment"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Worker" />
+        <item
+            android:id="@+id/CameraFragment"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Камера" />
+        <item
+            android:id="@+id/MicrifoneFragment"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Микрофон" />
+        <item
+            android:id="@+id/SensorFragment"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Сенсор" />
+        <item
+            android:id="@+id/fragment_profile"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Профиль" />
+        <item
+            android:id="@+id/FileFragment"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Файл" />
+        <item
+            android:id="@+id/MapsFragment"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Карты" />
+        <item
+            android:id="@+id/ExampleFragment"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Пост" />
     </group>
 </menu>
